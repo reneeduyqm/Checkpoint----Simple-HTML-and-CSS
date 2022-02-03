@@ -1,0 +1,41 @@
+h1{
+    font-size: 48px;
+    padding: 15px;
+    text-align: center;
+
+}
+
+p{
+    font-size: 48px;
+    padding-bottom: 15px;
+    padding-left: center;
+
+}
+
+img{
+    width: 350px;
+    display: block;
+    padding: 2px;
+    margin: 0 auto;
+    border: 10px dashed #FFFFFF;
+
+}
+
+img:hover{
+    border-color: #808080;
+}
+
+a:hover{
+    /* make the background color of your link black and the text white when you hover over it */
+    color: #adff2f;
+    background-color: #00008b;
+  }
+
+a.current{
+    color: #a714a7;
+
+}
+
+a:visited {
+    color: gray;
+}
